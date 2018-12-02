@@ -10,11 +10,11 @@ email: please@dec0de-me.co.uk
 baseurl: "/dec0de-me" # the subpath of your site, e.g. /blog
 url: "http://www.dec0de-me.co.uk" # the base hostname & protocol for your site
 social:
-  twitter: https://twitter.com/dec0de-me
-  github: https://github.com/<username>
-  linkedin-square: https://linkedin.com/in/<username>
-  facebook-official: https://facebook.com/<username>
-  google-plus-square: https://plus.google.com/u/0/+<username>
+  twitter: https://twitter.com/dec0de_me_
+  linkedin-square: https://linkedin.com/in/danielwoolfson
+  #github: https://github.com/<username>
+  #facebook-official: https://facebook.com/<username>
+  #google-plus-square: https://plus.google.com/u/0/+<username>
   #email: /contact/
   #flickr:
   #instagram:
