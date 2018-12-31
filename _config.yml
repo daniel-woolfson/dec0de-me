@@ -8,7 +8,7 @@ owner: Dec0de Me # or company name
 first_published: 2018 # if migrating another site, the year of your first publish
 email: please@dec0de-me.co.uk
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.dec0de-me.co.uk" # the base hostname & protocol for your site
+url: "https://www.dec0de-me.co.uk" # the base hostname & protocol for your site
 social:
   twitter: https://twitter.com/dec0de_me_
   linkedin-square: https://linkedin.com/in/danielwoolfson
