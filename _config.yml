@@ -50,6 +50,8 @@ social:
   #tripadvisor:
   #amazon:
 
+
+
 # Build settings
 markdown: kramdown
 #sass:
