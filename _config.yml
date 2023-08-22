@@ -2,18 +2,18 @@
 #
 
 # Site settings
-title: Dec0de Me
+title: The Engineer Experience
 description: Engineering Management Consultancy 
 owner: Dec0de Me # or company name
 first_published: 2018 # if migrating another site, the year of your first publish
 email: hello@dec0de-me.co.uk
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.dec0de-me.co.uk" # the base hostname & protocol for your site
+url: "https://www.the-engineer-experience.com" # the base hostname & protocol for your site
 plugins:
   - jekyll-sitemap
 social:
   twitter: https://twitter.com/dec0de_me_
-  linkedin-square: https://www.linkedin.com/company/dec0de-me/
+  linkedin-square: https://www.linkedin.com/company/the-engineer-experience/
   #github: https://github.com/<username>
   #facebook-official: https://facebook.com/<username>
   #google-plus-square: https://plus.google.com/u/0/+<username>
