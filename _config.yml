@@ -12,7 +12,7 @@ url: "https://www.the-engineer-experience.com" # the base hostname & protocol fo
 plugins:
   - jekyll-sitemap
 social:
-  twitter: https://twitter.com/dec0de_me_
+  twitter: https://x.com/_EngExperience
   linkedin-square: https://www.linkedin.com/company/the-engineer-experience/
   #github: https://github.com/<username>
   #facebook-official: https://facebook.com/<username>
